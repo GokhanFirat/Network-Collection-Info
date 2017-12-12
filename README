@@ -1,0 +1,5 @@
+###to run this script you have to have a wireless adapter,
+###and change wireless adapter mode as monitor
+
+### in terminal ------> python2 collectInfo.py
+###and wait 
